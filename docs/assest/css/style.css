@@ -145,6 +145,13 @@ a .navbar-logo{
 .gadget-item{
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
     margin: 0 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+.gadget-item div{
+    margin: 0;
 }
 .gadget-info{
     padding: 15px;
@@ -164,8 +171,8 @@ a .navbar-logo{
 .gadget-btn-wrapper{
     display: flex;
     justify-content: space-between;
-    margin-top: 10px;
     align-items: center;
+    padding: 10px 10px 20px 10px;
 }
 @media only screen and (max-width:1100px){
     .gadget-btn-wrapper{
@@ -178,7 +185,10 @@ a .navbar-logo{
 }
 @media only screen and (max-width:994px){
     .gadget-item{
-        margin: 20px 0px 0 0px;
+        margin: 0;
+    }
+    .gadget-item div{
+        margin: 30px 0px 0 0px;
     }
     .gadget-desc,
     .gadget-desc-list{
