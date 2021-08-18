@@ -58,7 +58,7 @@ Take your MiniStar board to the next level with this fully compatible experiment
 
 ## Software
 
-* [Gowin EDA Student Edition (FPGA Development Software)](https://www.gowinsemi.com/en/support/home/)
+* [Gowin EDA Student Edition (FPGA Development Software)](https://www.gowinsemi.com/en/support/download_eda/)
 * [Gowin GMD Student Edition (MCU Development Software)](https://www.gowinsemi.com/en/support/database/569/)
 
 
