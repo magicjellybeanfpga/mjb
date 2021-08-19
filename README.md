@@ -91,3 +91,4 @@ MagicJellyBean is an organization established to enable hobbyists, academic rese
 ## Directory Information:
 
 * /docs - Website html and assets
+* /demos - Demo projects
