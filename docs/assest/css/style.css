@@ -256,6 +256,15 @@ a .navbar-logo{
     width: 100%;
     padding: 10px;
 }
+.software-boxx {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
 .gowin-thumbnail img{
     width: 100%;
     height: auto;
@@ -263,6 +272,7 @@ a .navbar-logo{
 .gowin-btn a.btn.download-btn {
     display: block;
     background: #4472C4;
+	
 }
 p.gowin-desc {
     font-size: 15px;
